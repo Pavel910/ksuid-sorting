@@ -1,0 +1,30 @@
+{
+  "name": "ksuid-sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavel910/ksuid-sorting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavel910/ksuid-sorting/issues"
+  },
+  "homepage": "https://github.com/Pavel910/ksuid-sorting#readme",
+  "dependencies": {
+    "ksuid": "^2.0.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.791.0",
+    "jest": "^24.9.0",
+    "jest-dynalite": "^3.0.0",
+    "jest-extended": "^0.11.2",
+    "prettier": "^2.1.2"
+  }
+}
